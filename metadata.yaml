@@ -1,0 +1,31 @@
+_repo: Valencia-and-Murcia-a-glance-at-African-Spain_63136
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calvert, Albert Frederick
+    aliases:
+    - Calvert, A. F. (Albert Frederick)
+    - Calvert, Albert F.
+    birthdate: 1872
+    deathdate: 1946
+    gutenberg_agent_id: '39139'
+    url: http://www.gutenberg.org/2009/agents/39139
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Frederick_Calvert
+description: ''
+gutenberg_issued: '2020-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63136'
+  lccn: '11019376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Spanish series
+subjects:
+- !lcc 'DP'
+- !lcsh 'Murcia (Spain) -- Description and travel'
+- !lcsh 'Valencia (Spain) -- Description and travel'
+- GITenberg
+title: Valencia and Murcia, a glance at African Spain
+url: http://www.gutenberg.org/ebooks/63136
